@@ -1,1 +1,1 @@
-# Pemodelan-dan-Simulasi-Monte-Carlo-dalam-Meningkatkan-Pendapatan-Penjualan-Peralatan-Motor
+# Tugas Akhir Mata Kuliah Pemodelan dan Simulasi
