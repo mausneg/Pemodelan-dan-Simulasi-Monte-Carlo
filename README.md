@@ -1,0 +1,1 @@
+# Pemodelan-dan-Simulasi-Monte-Carlo-dalam-Meningkatkan-Pendapatan-Penjualan-Peralatan-Motor
